@@ -47,5 +47,3 @@ Upon running the system, you will see a menu like this:
 
 
 Choose an option by entering the number and following the prompts to manage student records.
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
